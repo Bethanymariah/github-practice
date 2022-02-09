@@ -1,0 +1,23 @@
+.body{
+    margin: 0px;
+}
+.titlecard{
+    width: 20vw;
+    height: 30vw;
+    float: left;
+}
+.one{
+    background-color: rgb(194, 61, 255);
+}
+.two{
+    background-color: rgb(107, 4, 167);
+}
+.three{
+    background-color: purple;
+}
+.four{
+    background-color: violet;
+}
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
